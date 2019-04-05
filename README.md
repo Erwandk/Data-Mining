@@ -2,7 +2,10 @@
 Projet étudiant de data mining
 
 Nous avons ici chercher à analyser les données des donateurs d'une ONG qui lutte contre les inégalités.
-Les données (confidentielles) mises à disposition étaient les informations de tous les types de donateurs de l'ONG. Nous avions également l'historique de tout leurs dons sur les 5 dernières années avec différentes caractéristiques.
+Les données (confidentielles) mises à disposition étaient:
+- les informations de tous les types de donateurs de l'ONG
+- l'historique de tout leurs dons sur les 5 dernières années avec différentes caractéristiques
+- des informations quant aux mails envoyés
 
 ## Introduction
 Il y a trois types de donateurs: réguliers, évènementiels et occasionnels.
