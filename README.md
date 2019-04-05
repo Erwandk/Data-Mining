@@ -23,3 +23,7 @@ On extrait ici les donateurs réguliers : qui sont les donateurs sur lesquels no
 ## Feature Engineering 2
 
 Ce script a pour but de traiter les données, créer des features en vue de l'élaboration d'un algorithme de détection de churn au sein des clients.
+
+## Modèles
+
+Ce script a pour but de développer les modèles de prédiction de churn des donateurs réguliers de l'ONG. On dispose des données traitées dans le script Feat_Eng_2.
