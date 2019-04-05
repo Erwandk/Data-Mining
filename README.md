@@ -9,10 +9,13 @@ Il y a trois types de donateurs: réguliers, évènementiels et occasionnels.
 Nous discernons un dernier type de "donateurs" dans la base de donnée quis ont uniquement ceux qui ont signer une petition.
 
 ## Analyse de données
-Cette partie a pour but d'analyser les données des donateurs réguliers (en terme de donations) ainsi que d'analyser le churn de ces donateurs et ce qui différencie les deux catégories.
+Cette partie a pour but d'analyser les données des donateurs réguliers (en terme de donations) ainsi que d'analyser le churn de ces donateurs et ce qui différencie les deux catégories (ceux qui churnent et ceux qui ne churnent pas) selon les différentes caractéristiques clées.
 
 
 ## Feature Engineering 1
+
+Ce script a pour but de charger, de traiter et de sauvegarder les données brutes que nous avons à disposition.
+On extrait ici les donateurs réguliers : qui sont les donateurs sur lesquels nous allons faire nos analyses.
 
 ## Feature Engineering 2
 
