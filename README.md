@@ -19,4 +19,4 @@ On extrait ici les donateurs réguliers : qui sont les donateurs sur lesquels no
 
 ## Feature Engineering 2
 
-
+Ce script a pour but de traiter les données, créer des features en vue de l'élaboration d'un algorithme de détection de churn au sein des clients.
